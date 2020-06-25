@@ -5,7 +5,7 @@ tags: TeXt
 
 첫 게시물 일단 써보쟈 
 
-[github](https://mbin96.github.com) 
+[github](https://www.github.com/mbin96) 
 
 <!--more-->
 
