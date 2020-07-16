@@ -11,7 +11,10 @@ title: 팀 나리연 시나리오 라이터 구인공지
 
 ## 진행사항
 * renpy 기반   
-<img src="/img/sample.png" width="12%" title="히로인" alt="히로인">
+<figure>
+  <img src="/img/sample.png" width="12%" title="히로인" alt="히로인">
+  <figcaption>히로인중 한명의 캐릭터 원안</figcaption>
+</figure>   
 * 캐릭터 디자인과 설정 - 주인공, 히로인 3명 
 * 시나리오 설정 - 주인공과 주인공의 밴드 멤버들이 여행을 하며 생기는 이야기
 * 주인공이랑 히로인이랑 어쨌든 할건 다 하는걸로 (묘사는 15세 정도로)
