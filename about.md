@@ -1,41 +1,29 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
-key: page-about
+title: 팀 나리연 시나리오 라이터 구인공지
 ---
 
-```c
-int main(){
-    printf('helloworld!');
-}
-```
-```bash
-cd ~
-git commit -m "first commit"
-```
-## 소개
+안녕하세요 팀 나리연입니다. 저희 팀과 함께 백합 장르의 비주얼노벨을 만드실 시나리오 라이터 분을 구인합니다.   
+현재 제작중인 게임은 백합 장르를 기반으로 청춘과 여행을 테마로 하여 제작하고 있습니다.    
+캐릭터 디자인은 완료된 상태이나 기존에 함께하시던 시나리오 라이터분이 건강상의 이유로 빠지게 되어 새로운 시나리오 라이터 분을 모시게 되었습니다.
 
-- 그냥 아무거나 올리는 블로그
-- 일단 이런저런 코드 올릴꺼예요.
+백합을 좋아하시는 시나리오 라이터 분을 기다리고 있습니다
+
+## 제작 진행사항
+* renpy 기반
+
+* 캐릭터 원화와 설정
+* 주인공외 3인의 밴드 멤버들
+
+## 목표
+모두의 백합 3회에 데모게임 출시
+
+## 현재 팀원구성
+현재 팀원은 총 4명입니다.
+* 캐릭터 원화, 팀장 - [렛(님)](https://twitter.com/let_nim) 
+* 프로그래밍 및 UI - [쩨카](https://twitter.com/XecaChan) 
+* 사운드 디렉터
+* 배경 원화
+
+## 연락
+[렛(님)](https://twitter.com/let_nim) 혹은 [쩨카](https://twitter.com/XecaChan) 에게 dm 부탁드립니다.
